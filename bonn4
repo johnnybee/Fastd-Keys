@@ -1,2 +1,2 @@
 key "0bb9515bdfbd046b1c7e833c782bb3ad6ab998bbf0ff66b57c8df6037e9345b5";
-remote ipv4 "bonn4.kbu.freifunk.net" port 10030;
+remote ipv4 "bonn4.kbu.freifunk.net" port 10040;
